@@ -1,0 +1,11 @@
+site/
+site/*
+__pycache__/
+
+*.pyc
+*~
+/.vscode
+myenv
+db.sqlite3
+/static
+.DB_Store
